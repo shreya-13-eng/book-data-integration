@@ -6,5 +6,8 @@ This project focuses on integrating book data and providing basic recommendation
 ## Features
 
 Recommends books based on user preferences
+<br>
 Simple chatbot-style interaction
+<br>
 Uses structured book data
+
